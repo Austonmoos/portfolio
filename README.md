@@ -12,12 +12,10 @@
 
 * HTML
 * CSS 
-* 
-* 
 
 ## Description
 
-This webpage contains information about myself (Auston Moos), Projects I've worked on in my first week at Epicodus.
+This webpage contains information about myself (Auston Moos), Projects I've worked on in my first week at Epicodus, hobbies/intrests and why I started coding. 
 
 ## Setup/Installation Requirements
 
@@ -28,7 +26,6 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 ## Known Bugs
 
 * No discovered Bugs as of yet.
-* 
 
 ## License
 
