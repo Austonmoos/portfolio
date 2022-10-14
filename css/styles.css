@@ -1,0 +1,22 @@
+body {
+  background-color: aquamarine;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.jumbotron {
+  color: bisque;
+  background-color: black;
+}
+
+.jumbotron img {
+  float:right; 
+  height: auto;
+  width: 200px;
+  border-radius: 40%;
+}
+
+a {
+  color: blueviolet;
+  margin-right: 30px;
+}
+
