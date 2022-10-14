@@ -1,8 +1,8 @@
-# _{Portfolio}_
+# Portfolio
 
-#### By _**{Auston Moos}**_
+#### By _**Auston Moos**_
 
-#### _{A short portfolio about Auston Moos}_
+#### A short portfolio about Auston Moos
 
 ## Technologies Used
 
@@ -27,8 +27,8 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* No discovered Bugs as of yet.
+* 
 
 ## License
 
