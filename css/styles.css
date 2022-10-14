@@ -20,3 +20,10 @@ a {
   margin-right: 30px;
 }
 
+.card  {
+  background-color: black;
+  color: white;
+  padding: 1px;
+  border: solid blue 4px;
+  margin: 3px;
+}
