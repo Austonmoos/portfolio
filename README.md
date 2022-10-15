@@ -10,6 +10,8 @@
 
 (https://github.com/Austonmoos/portfolio)
 
+## Languages used
+
 * HTML
 * CSS 
 
